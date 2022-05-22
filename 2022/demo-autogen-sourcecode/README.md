@@ -48,6 +48,13 @@ $ sh test.sh Hello
 
 $ sh entity_generator.sh "${DEST_DIR}"
 ## [INFO] *****entity_generator.sh START*****
+## [INFO] start time: 2022/05/22 20:16:17
 ## [DEBUG] created 'Hoge.java'
+## [DEBUG] created 'Fuga.java'
+## [DEBUG] created 'Piyo.java'
+## [DEBUG] created ・・・
+## omitted
+## [INFO] end time: 2022/05/22 20:16:34
+## [INFO] execute time: 17 sec
 ## [INFO] *****entity_generator.sh END*****
 ```
