@@ -11,8 +11,8 @@ cd "$(dirname "$0")"
 
 echo "[INFO] *****$(basename "$0") START*****"
 echo "[INFO] start time: $(date "+%Y/%m/%d %T")"
-startTime=$(date +%s)
+start_time=$(date +%s)
 
 echo "[INFO] end time: $(date "+%Y/%m/%d %T")"
-echo "[INFO] execute time: $(($(date +%s) - "${startTime}")) sec"
+echo "[INFO] execute time: $(($(date +%s) - "${start_time}")) sec"
 echo "[INFO] *****$(basename "$0") END*****"
