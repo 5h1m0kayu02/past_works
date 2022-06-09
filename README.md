@@ -14,6 +14,7 @@
 1. [my-template](2022/my-template)
 1. [plant-uml](2022/plant-uml)
 1. [demo-autogen-sourcecode](2022/demo-autogen-sourcecode)
+1. [repos-cloner](2022/repos-cloner)
 
 **Created on 2021**
 
