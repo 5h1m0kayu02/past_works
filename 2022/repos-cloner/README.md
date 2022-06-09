@@ -67,7 +67,7 @@ clone_func_v1 ${user} "${repos[@]}"
 ## execution
 
 user="******"
-# repos=("")
+repos=("")
 # clone_func_v1 ${user} "${repos[@]}" # commented out by default
 clone_func_v2 ${user}
 ```
