@@ -29,9 +29,10 @@ $ vi clone.sh
 $ sh clone.sh
 ```
 
-> **Note**
-
+> **Note**<br>
 > viコマンドでは、次の箇所を編集します。
+
+<details><summary>Click to expand</summary><br>
 
 **default**
 
@@ -71,6 +72,8 @@ repos=("")
 # clone_func_v1 ${user} "${repos[@]}" # commented out by default
 clone_func_v2 ${user}
 ```
+
+</details>
 
 ### clone_if_not_present.sh
 
