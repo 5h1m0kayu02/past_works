@@ -15,6 +15,7 @@
 1. [plant-uml](2022/plant-uml)
 1. [demo-autogen-sourcecode](2022/demo-autogen-sourcecode)
 1. [repos-cloner](2022/repos-cloner)
+1. [demo-overwrite-js-val-from-another-js-file](2022/demo-overwrite-js-val-from-another-js-file)
 
 **Created on 2021**
 
