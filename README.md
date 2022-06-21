@@ -23,7 +23,6 @@
 1. [training_criteria-builder](2021/training_criteria-builder)
 1. [my-utils](2021/my-utils)
 1. [markdown-table-to-tsv-converter](2021/markdown-table-to-tsv-converter)
-1. [custom-pdfminer-for-windows-10](2021/custom-pdfminer-for-windows-10)
 1. [hello-world](2021/hello-world)
 1. [rps](2021/rps)
 1. [image-viewer-template](2021/image-viewer-template)
